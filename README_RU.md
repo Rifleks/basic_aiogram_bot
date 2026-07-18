@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/English-blue.svg?style=for-the-badge" alt="English">
+  </a>
+  <a href="README_RU.md">
+    <img src="https://img.shields.io/badge/Русский-red.svg?style=for-the-badge" alt="Русский">
+  </a>
+</p>
+
 # 🤖 Полное руководство по разработке Telegram-ботов для новичков (aiogram 3.x)
 
 Добро пожаловать! Если вы только начинаете свой путь в программировании на Python и хотите научиться создавать Telegram-ботов, вы попали точно по адресу.
