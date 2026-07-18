@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# 🤖 The Ultimate Beginner's Guide to Telegram Bots (aiogram 3.x)
+# 🤖 Basic Telegram bot example for beginners (aiogram 3.x)
 
 Welcome! If you are just starting your journey into Python and Telegram bot development, you have landed in the right place. 
 
