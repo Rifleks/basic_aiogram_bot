@@ -106,6 +106,28 @@ Never paste your bot token directly into your Python code! If you upload it to G
    BOT_TOKEN=123456789:ABCdefGHIjklMNOpqrsTUVwxyz
    ```
 
+### 5. Launch the Bot
+
+There are two ways to run the project:
+
+#### Modular Version (Recommended)
+
+This is the main version of the project. The code is organized into folders (`handlers`, `keyboards`, etc.), as is standard practice in real-world projects.
+
+```bash
+python main.py
+```
+
+#### Single-File Version
+
+If you want to see how the exact same bot looks without modular separation, you can run the `bot.py` file. It contains identical functionality, but all the code is kept in a single file, which is convenient for learning or quick experiments.
+
+```bash
+python bot.py
+```
+
+After launching, a successful startup message will appear in the console. Now, open Telegram, find your bot, and send the `/start` command.
+
 ---
 
 ## 🗺 Architecture: Single-File vs. Modular
