@@ -11,7 +11,7 @@
 
 Welcome! If you are just starting your journey into Python and Telegram bot development, you have landed in the right place. 
 
-This repository is a modern template built on the latest version of the aiogram 3 framework. We'll guide you through the entire journey—from setting up the development environment on your computer to understanding the architecture of real-world, production-grade projects.
+This repository is a modern template built on the latest version of the **aiogram 3** framework. We'll guide you through the entire journey—from setting up the development environment on your computer to understanding the architecture of real-world, production-grade projects.
 
 ---
 
